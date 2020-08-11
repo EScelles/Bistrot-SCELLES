@@ -153,8 +153,8 @@ h1 i {
 /* vp */
 
 .vp {
-  height: 1000px;
-  background: url(../image/terrasse.jpg) center center/cover;
+  height: 700px;
+  background: url(../image/restaurant.jpg) center center/cover;
   background-size: cover;
   text-align: center;
 }
@@ -195,7 +195,7 @@ h1 i {
 
 .person {
   height: 1000px;
-  background: url(../image/burger3.jpg) center center/cover;
+  background: url(../image/plat.jpg) center center/cover;
 }
 
 /* reservation */
